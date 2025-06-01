@@ -1,64 +1,74 @@
-# 👋 Hi, I’m Tanmoy Kumar Das
+# Tanmoy Kumar Das
 
-## 🎓 About Me
+## Profile
 
-I am an undergraduate Computer Science student at **Patuakhali Science and Technology University**. With a solid foundation in programming and a keen interest in technology, I enjoy solving challenging problems and developing innovative projects.
+I am an undergraduate Computer Science student at **Patuakhali Science and Technology University** with a strong foundation in programming, problem solving, and software development. I am passionate about contributing to open-source projects, collaborating on academic research, and developing robust technological solutions.
 
 ---
 
-## 💻 Tech Stack
+## Technical Skills
 
-- **Languages:**  
-  ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-  ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-  ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/HTML5-e34c26?style=flat-square&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-- **Competitive Programming:**  
-  - Codeforces: 300+ problem solved. 
+- **Programming Languages:**  
+  C, C++, Java, PHP, HTML5, CSS3
+
+- **Databases:**  
+  MySQL, Oracle
+
+- **Operating Systems:**  
+  Linux (Manjaro KDE)
+
 ---
 
-## 🚀 Projects
+## Tools & Technologies
+
+- Competitive Programming (Codeforces)
+- Embedded Systems (Arduino)
+- Web Development (HTML, CSS, PHP)
+- Version Control (Git, GitHub)
+
+---
+
+## Projects
 
 - [**Hostic**](https://github.com/tanmoykdas/Hostic)  
-  Web project for hosting services built with HTML, CSS, and PHP
+  Developed a web-based hosting service platform utilizing HTML, CSS, and PHP.
 
 - [**Snake Game**](https://github.com/tanmoykdas/CCE-122/tree/main/snake_game)  
-  Classic Snake game implemented in Java
+  Implemented a classic Snake game in Java as part of coursework, focusing on object-oriented programming.
 
 - [**Arduino Fire Fighting Robot**](https://github.com/tanmoykdas/Arduino_Project)  
-  An Arduino-based robot designed for basic fire-fighting tasks
+  Designed and programmed a fire-fighting robot using Arduino, integrating basic sensors and actuators for autonomous operation.
 
 ---
 
-## 🌱 Currently Learning
+## Achievements
+
+- Participated in the **ICPC Regional 2023** and **2024**
+- Ranked **363rd out of 2000+ teams** in ICPC Regional 2024
+
+---
+
+## Academic & Professional Interests
 
 - Advanced Data Structures & Algorithms
-- Web Development Best Practices
 - Robotics and Embedded Systems
+- Web Application Security and Best Practices
+- Open Source Software Development
 
 ---
 
-## 🎯 Goals
+## Availability
 
-- Improve my competitive programming skills
-- Contribute to open-source projects
-- Build impactful tech solutions
+I am currently seeking internship opportunities related to software development, research, or open-source collaboration.
 
 ---
 
-## 🎬 Fun Fact
-
-When I’m not coding, I love to watch movies and TV series!
-
----
-
-## 📫 Get In Touch
+## Contact
 
 - [LinkedIn](https://www.linkedin.com/in/tanmoy-kumar-das-207742278/)
-- tnmy468@gmail.com
+- [Telegram](https://t.me/tanmoykdas)
+- ug2102079@cse.pstu.ac.bd
 
 ---
 
-_Thank you for visiting my profile!_
+_Thank you for your interest in my profile._
