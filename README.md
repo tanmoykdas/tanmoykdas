@@ -57,12 +57,6 @@ I am an undergraduate Computer Science student at **Patuakhali Science and Techn
 
 ---
 
-## Availability
-
-I am currently seeking internship opportunities related to software development, research, or open-source collaboration.
-
----
-
 ## Contact
 
 - [LinkedIn](https://www.linkedin.com/in/tanmoy-kumar-das-207742278/)
