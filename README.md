@@ -9,7 +9,7 @@ I am an undergraduate Computer Science student at **Patuakhali Science and Techn
 ## Technical Skills
 
 - **Programming Languages:**  
-  C, C++, Java, PHP, HTML5, CSS3
+  C, C++17, Java, PHP, HTML5, CSS3
 
 - **Databases:**  
   MySQL, Oracle
