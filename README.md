@@ -61,7 +61,7 @@ I am an undergraduate Computer Science student at **Patuakhali Science and Techn
 
 - [LinkedIn](https://www.linkedin.com/in/tanmoy-kumar-das-207742278/)
 - [Telegram](https://t.me/tanmoykdas)
-- ug2102079@cse.pstu.ac.bd
+- tnmy468@gmail.com
 
 ---
 
