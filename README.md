@@ -2,7 +2,7 @@
 
 ## Profile
 
-I am an undergraduate Computer Science student at **Patuakhali Science and Technology University** with a strong foundation in programming, problem solving, and software development. I am passionate about contributing to open-source projects, collaborating on academic research, and developing robust technological solutions.
+I am an undergraduate Computer Science student at **Patuakhali Science and Technology University** with a strong foundation in programming, problem solving, and software development.
 
 ---
 
@@ -16,16 +16,6 @@ I am an undergraduate Computer Science student at **Patuakhali Science and Techn
 
 - **Operating Systems:**  
   Linux (Manjaro KDE)
-
----
-
-## Tools & Technologies
-
-- Competitive Programming (Codeforces)
-- Embedded Systems (Arduino)
-- Web Development (HTML, CSS, PHP)
-- Version Control (Git, GitHub)
-
 ---
 
 ## Projects
@@ -56,13 +46,3 @@ I am an undergraduate Computer Science student at **Patuakhali Science and Techn
 - Open Source Software Development
 
 ---
-
-## Contact
-
-- [LinkedIn](https://www.linkedin.com/in/tanmoy-kumar-das-207742278/)
-- [Telegram](https://t.me/tanmoykdas)
-- tnmy468@gmail.com
-
----
-
-_Thank you for your interest in my profile._
