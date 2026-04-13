@@ -1,5 +1,5 @@
 # 💫 About Me:
-Final-year CSE student at PSTU. <br><br>My main focus right now is AI/ML. I'm actively learning, building hands-on projects, and contributing to a research paper in the field.<br><br>I spend a good chunk of my time on Codeforces, competing regularly and sharpening my algorithmic thinking. Currently sitting at a 900+ rating and still climbing. On the development side, I've built Android applications and have foundational experience in web development. 
+Final-year CSE student at PSTU. <br><br>My main focus right now is AI/ML. I'm actively learning, building hands-on projects, and contributing to a research paper.<br><br>I spend a good chunk of my time on Codeforces, competing regularly and sharpening my algorithmic thinking. Currently sitting at a 900+ rating and still climbing. On the development side, I've built Android applications and have foundational experience in web development. 
 
 
 ## 🌐 Socials:
